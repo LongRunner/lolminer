@@ -4,6 +4,17 @@
 		"APIPORT" : 0
 	},
 
+	"BEAM_PROFILE" : 
+	{
+		"COIN" : "BEAM",
+		"POOLS" : [
+			{"POOL" : "us1-beam.flypool.org",
+			 "PORT" : "3443",
+			 "USER" : "3ac35e23b72902cb7ac5815e9d280ec0448e528c09afffa0949962a2e8be683ccb7.tars"
+			}
+		]
+	},
+
 	"EXAMPLE_BEAM_SINGLE" : 
 	{
 		"COIN" : "BEAM",
